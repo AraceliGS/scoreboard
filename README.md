@@ -14,7 +14,7 @@ This is a personal project I've built that lets you update the score of a basket
 1. Clone the repo
 
 ```bash
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/AraceliGS/scoreboard.git
 ```
 
 ## Credits
